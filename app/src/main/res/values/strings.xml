@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Compose Assignment 2</string>
+    <string name="first_text">All tasks completed</string>
+    <string name="second_text">Good job!</string>
 </resources>
